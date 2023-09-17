@@ -21,7 +21,7 @@
 			<option>mumbai<option/>
 			<option>haridwar<option/>
 	
-		</select><br><br>
+		</select><br/>
 		<input type="submit" value="click me"/>
 	
 	</form>
